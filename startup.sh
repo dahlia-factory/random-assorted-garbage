@@ -1,3 +1,5 @@
+# this is optional, idk if it is always beneficial, but i have noticed a significant different in performance
+# using this on intensive tasks, which is pretty much everything i do on this computer, so this is nice to just do automatically
 sudo cpupower frequency-set -g performance
 
 # feel free to comment these out. requires terminaltexteffects to be installed, it's just an inside joke amongst me and my friends
