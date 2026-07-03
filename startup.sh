@@ -1,7 +1,8 @@
 sudo cpupower frequency-set -g performance
 
-# DISGUSTING bit i found online. alternates colors for each letter to make a gradient 
-echo -e "\e[38;5;117mt\e[38;5;217mr\e[38;5;15ma\e[38;5;117mn\e[38;5;217ms \e[38;5;15mr\e[38;5;117mi\e[38;5;217mg\e[38;5;15mh\e[38;5;117mt\e[38;5;217ms \e[38;5;15ma\e[38;5;117mr\e[38;5;217me \e[38;5;15mh\e[38;5;117mu\e[38;5;217mm\e[38;5;15ma\e[38;5;117mn \e[38;5;217mr\e[38;5;15mi\e[38;5;117mg\e[38;5;217mh\e[38;5;15mt\e[38;5;117ms\e[0m"
+# feel free to comment these out. requires terminaltexteffects to be installed, it's just an inside joke amongst me and my friends
+echo "LATENT YANG LOCATED. PRESS [CTRL]+C TO INITATE" | tte burn
+echo "YANG INVIGORATED!!!!!" | tte spotlights
 
 echo -e "CPU running at 100% power. \e[31mFull steam ahead.\e[0m";
 
